@@ -1,0 +1,169 @@
+Prompt Modular para Agente de IA – Criação de Moeda Meme com Execução Completa
+💡 Módulo 1 – Pesquisa e Planejamento Estratégico
+Objetivo:
+Analisar o cenário atual das moedas meme e criar um plano estratégico sólido para uma nova moeda.
+
+Tarefas:
+
+Estude as moedas meme de maior sucesso (Dogecoin, Shiba Inu, Pepe, Bonk, etc.).
+
+Identifique o que gerou viralização e engajamento em cada caso.
+
+Crie um conceito inédito e divertido de moeda meme com:
+
+Nome criativo
+
+Mascote ou personagem (animal, símbolo ou meme)
+
+Slogan marcante
+
+Proposta única de valor
+
+Resultado esperado:
+Documento com a ideia da moeda, branding e proposta de valor.
+
+🧱 Módulo 2 – Criação do Token
+Objetivo:
+Desenvolver e registrar o token em uma blockchain de forma segura e funcional.
+
+Tarefas:
+
+Escolher a blockchain ideal (Ethereum, Solana, BSC, Polygon, etc.).
+
+Escrever e testar o smart contract (padrão ERC-20, SPL ou equivalente).
+
+Definir o tokenomics:
+
+Suprimento total
+
+Distribuição
+
+Queima, recompensas, etc.
+
+Registrar o token no blockchain.
+
+Resultado esperado:
+Token criado, funcional, com contrato verificado e tokenomics definido.
+
+🌐 Módulo 3 – Criação do Website
+Objetivo:
+Criar um site moderno, responsivo, divertido e de fácil compreensão.
+
+Tarefas:
+
+Desenvolver um site com as seguintes seções:
+
+Página inicial cativante
+
+O que é a moeda?
+
+Como comprar
+
+Roadmap simples
+
+Tokenomics ilustrado
+
+Comunidade e FAQ divertido
+
+Criar textos com linguagem leve, clara e com humor.
+
+Gerar imagens usando IA:
+
+Logo
+
+Mascote
+
+Mockups de moedas
+
+Ilustrações do roadmap
+
+Otimizar para mobile e desktop.
+
+Hospedar o site (temporariamente em um domínio gratuito ou IPFS).
+
+Resultado esperado:
+Site online, funcional e atrativo com design de alto nível e imagens/textos prontos.
+
+🎨 Módulo 4 – Identidade Visual e Materiais
+Objetivo:
+Desenvolver todos os elementos visuais da marca de forma coesa.
+
+Tarefas:
+
+Criar logo em PNG e SVG.
+
+Desenvolver a paleta de cores e tipografia.
+
+Criar avatar do mascote em estilo cartoon.
+
+Gerar artes para:
+
+Twitter/X
+
+Telegram
+
+Discord
+
+Imagens de perfil e banners
+
+Resultado esperado:
+Kit completo de identidade visual para redes sociais e o site.
+
+📄 Módulo 5 – Whitepaper Simplificado
+Objetivo:
+Elaborar um whitepaper leve, objetivo e com tom descontraído.
+
+Tarefas:
+
+Explicar:
+
+O que é a moeda
+
+Por que existe
+
+Como funciona
+
+Tokenomics
+
+Roadmap
+
+Escrever de forma divertida e acessível.
+
+Entregar como PDF bem diagramado.
+
+Resultado esperado:
+Whitepaper pronto para download no site e envio à comunidade.
+
+🚀 Módulo 6 – Lançamento Inicial e Estratégia de Marketing
+Objetivo:
+Definir uma estratégia de lançamento rápido e viral.
+
+Tarefas:
+
+Criar plano de lançamento em redes sociais (Twitter, Reddit, Telegram).
+
+Criar memes com IA relacionados à moeda.
+
+Sugerir influenciadores para micro-parcerias.
+
+Definir primeiros passos da comunidade (bounty, airdrop, campanhas).
+
+Resultado esperado:
+Plano prático de marketing inicial com ações e materiais prontos.
+
+🧑‍🤝‍🧑 Módulo 7 – Comunidade e Engajamento
+Objetivo:
+Montar a estrutura de comunicação com os primeiros apoiadores da moeda.
+
+Tarefas:
+
+Criar grupo no Telegram e/ou servidor no Discord.
+
+Redigir mensagens automáticas de boas-vindas.
+
+Criar calendário de atividades e memes semanais.
+
+Integrar bot de informações básicas do token.
+
+Resultado esperado:
+Comunidade ativa pronta para receber interessados.
